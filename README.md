@@ -2,3 +2,7 @@
 ## Technologies 
 - APS.NET Core 3.1
 - Entiny Framework Core 3.1
+## Install Packages
+- Microsoft.EntiryFrameworkCore.Design
+- Microsoft.EntiryFrameworkCore.Tools
+- Microsoft.EntiryFrameworkCore.SqlServer
